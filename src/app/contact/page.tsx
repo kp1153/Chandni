@@ -7,7 +7,7 @@ export default function ContactPage() {
     <main className="max-w-xl mx-auto py-12 px-4">
       <div className="flex flex-col items-center bg-white rounded-lg shadow p-6">
         <img
-          src="/profile.jpg"
+          src="/profile.jpeg"
           alt="Profile"
           className="w-60 h-60 rounded-full object-cover object-top mb-6 border-4 border-gray-300 shadow-md"
         />
